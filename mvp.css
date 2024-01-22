@@ -1,6 +1,6 @@
 /* MVP.css v1.14 - https://github.com/andybrewer/mvp */
 
-:root {
+:root, ::backdrop, ::selection {
     --active-brightness: 0.85;
     --border-radius: 5px;
     --box-shadow: 2px 2px 10px;
